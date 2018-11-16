@@ -1,0 +1,6 @@
+## Put these lines in your i3block config.
+
+[active_layout]
+command=xkb-switch | cut -c1-2
+interval=repeat
+signal=10
