@@ -1,3 +1,5 @@
+## Put this file in your path
+
 #!/bin/bash
 while true; do
 	xkb-switch -w -p | cut -b 1,2
