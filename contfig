@@ -1,3 +1,0 @@
-## Put this in your i3 config and replays the keys with the ones you use
-
-bindsym --release Alt+Shift exec -SIGMIN+10 i3blocks
