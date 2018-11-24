@@ -1,5 +1,5 @@
 ## Put these lines in your i3block config.
 
 [active_layout]
-command=xkb-switch -w -p | cut -b 1,2
+command=layout
 interval=persist
