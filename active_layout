@@ -1,5 +1,0 @@
-## Put these lines in your i3block config.
-
-[active_layout]
-command=layout
-interval=persist
