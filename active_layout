@@ -3,5 +3,5 @@
 #!/bin/bash
 while true; do
 	xkb-switch -w -p | cut -b 1,2
-	watch -n 1
+	watch -d
 done
